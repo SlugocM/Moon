@@ -1,16 +1,19 @@
 # Site
-title:              'Michael Slugocki (Ph.D. Candidate)'
-bio:                'Computational Psychophysicist <br>
+title:              '<strong><larger>Michael Slugocki</larger> <br> 
+                     <small>(Ph.D. Candidate)</small></strong>'
+bio:                '<strong>Computational Psychophysicist <br>
                      Department of Psychology, Neuroscience & Behaviour <br>
                      McMaster University'
-description:        'Computational Psychophysicist'
+description:        'Computational Psychophysicist</strong>'
 reading_time:       true
 words_per_minute:   200
 logo:               "https://avatars1.githubusercontent.com/u/22335130?v=3&s=460"
 background:         'assets/img/brain_circuit_cropped.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://slugocm.github.io
+# url:                https://slugocm.github.io
+url:                http://127.0.0.1:4000
+
 
 # Jekyll
 permalink:          /:title/
