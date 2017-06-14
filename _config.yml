@@ -7,10 +7,10 @@ description:        'Computational Psychophysicist'
 reading_time:       true
 words_per_minute:   200
 logo:               "https://avatars1.githubusercontent.com/u/22335130?v=3&s=460"
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/home_background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://slugocm.github.io/
+url:                https://slugocm.github.io
 
 # Jekyll
 permalink:          /:title/
