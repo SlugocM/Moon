@@ -66,13 +66,13 @@
 		h4 {
 			margin:0;
 			padding: 15px 20px 0;
-			color: rgba(225,0,0,0.9);
+			color: rgba($black,0.9);
 		}
 		p {
 			margin: 0;
 			padding: 15px 20px;
 			@include font-rem(14);
-			color: rgba($red,0.8);
+			color: rgba(50,50,50,0.85);
 			font-weight: 300;
 			a {
 				display: inline;

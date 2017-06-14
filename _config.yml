@@ -7,8 +7,9 @@ bio:                '<strong>Computational Psychophysicist <br>
 description:        'Computational Psychophysicist</strong>'
 reading_time:       true
 words_per_minute:   200
-logo:               "https://avatars1.githubusercontent.com/u/22335130?v=3&s=460"
-background:         'assets/img/brain_circuit_cropped.jpg'
+logo:               'assets/img/logo.jpg'
+about_logo:         'assets/img/logo_about.jpg'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 # url:                https://slugocm.github.io
