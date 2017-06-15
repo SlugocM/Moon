@@ -8,7 +8,7 @@ comments: false
     
 <figure>
     <a href="/assets/img/about_me.jpg"><img src="/assets/img/about_me.jpg"></a>
-    <figcaption>Picture of me hooked into a BioSemi EEG system.</figcaption>
+    <figcaption>Me hooked into a BioSemi EEG system.</figcaption>
 </figure>
 
 My name is Michael Slugocki, and I am currently in the final stages of completing my doctoral thesis in the Vision and Cognitive Neuroscience Lab at McMaster University.  
