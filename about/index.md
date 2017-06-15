@@ -6,7 +6,10 @@ date: 2017-06-14
 comments: false
 ---
     
-[[https://github.com/slugocm/slugocm.github.io/assets/img/about_me.jpg|alt=octocat]]
+<figure>
+    <a href="/assets/img/about_me.jpg"><img src="/assets/img/about_me.jpg"></a>
+    <figcaption>Picture of me hooked into a BioSemi EEG system.</figcaption>
+</figure>
 
 My name is Michael Slugocki, and I am currently in the final stages of completing my doctoral thesis in the Vision and Cognitive Neuroscience Lab at McMaster University.  
 
