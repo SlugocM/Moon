@@ -12,7 +12,7 @@ about_logo:         'assets/img/logo_about.jpg'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                slugocm.github.io
+url:                www.slugocm.ca
 #url:                http://127.0.0.1:4000
 #email:              slugocm@mcmaster.ca
 
