@@ -6,6 +6,16 @@ date: 2017-06-14
 comments: false
 ---
 
+## Perception of Holographic Object Features
+**Proudly in colloboration with Faculty of Dentistry, University of Toronto**
+
+<figure>
+    <a href="/assets/img/project_holoLens.jpg"><img src="/assets/img/project_holoLens.jpg"></a>
+    <figcaption>Example of bitewing radiograph from Rad et al. (2016) database. Image IS NOT affiliated with Faculty of Dentistry, UoT.</figcaption>
+</figure>
+
+Developing experiments meeasuring the perception of different geometric features of objects using the Microsoft HoloLens. 
+
 ## Automated Detection System for Dental Carries 
 **Proudly in colloboration with Faculty of Dentistry, University of Toronto**
 
