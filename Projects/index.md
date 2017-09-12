@@ -7,7 +7,6 @@ comments: false
 ---
 
 ## Perception of Holographic Object Features
-**Proudly in colloboration with Faculty of Dentistry, University of Toronto**
 
 <figure>
     <a href="/assets/img/project_holoLens.jpg"><img src="/assets/img/project_holoLens.jpg"></a>
