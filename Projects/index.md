@@ -11,7 +11,7 @@ comments: false
 
 <figure>
     <a href="/assets/img/project_holoLens.jpg"><img src="/assets/img/project_holoLens.jpg"></a>
-    <figcaption>Example of bitewing radiograph from Rad et al. (2016) database. Image IS NOT affiliated with Faculty of Dentistry, UoT.</figcaption>
+    <figcaption>Me with the Microsoft HoloLens doing work in the lab.</figcaption>
 </figure>
 
 Developing experiments meeasuring the perception of different geometric features of objects using the Microsoft HoloLens. 
