@@ -7,7 +7,7 @@ comments: false
 ---
     
 <figure>
-    <a href="/assets/img/research_img.jpg"><img src="/assets/img/research_img.jpg"></a>
+    <a href="/assets/img/research_neural_model.png"><img src="/assets/img/research_neural_model.png"></a>
     <figcaption>Computational model of V4 encoding curvature.</figcaption>
 </figure>
 
