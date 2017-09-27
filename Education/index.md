@@ -14,7 +14,14 @@ McMaster University
   
 Advisors:   
 Dr. Allison B. Sekuler & Dr. Patrick J. Bennett    
-  
+
+Relevant Graduate Coursework: 
+- Machine Learning
+- Grduate Level Statistics and Research Design
+- Bayesian Inference
+- Signal Detection Theory
+- Psychometrics
+
 **B.Sc.(Hons)**  
 Received: *April 2008*  
 Psychology, Neuroscience & Behaviour  
