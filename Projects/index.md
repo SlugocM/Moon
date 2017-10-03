@@ -50,7 +50,7 @@ Research makes extensive use of classical psychophysical methods and computation
 
 
 <figure>
-    <a href="https://raw.githubusercontent.com/SlugocM/bayesfit/master/logos/logo.png"><img src="https://raw.githubusercontent.com/SlugocM/bayesfit/master/logos/logo.png"></a>
+    <a href="/assets/img/bayesfit.png"><img src="/assets/img/bayesfit.png"></a>
 </figure>
 
 Published module on Python Index and GitHub called BayesFit that allows users to fit models to psychophysical data using Bayesian inference.  This module leverages the PyStan interface, which makes use of Stan, a powerful No-U-Turn sampler.  
