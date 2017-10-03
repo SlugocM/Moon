@@ -46,17 +46,14 @@ Examining features of objects within ImageNet database to identify novel image p
 Research makes extensive use of classical psychophysical methods and computational modelling to examine what shape features are important to human visual cortex in generating shape representations using neural population codes.
 
 
-# Extracurricular Activies
-
-## BayesFit - Psychometric Curve Fitting Package/Module (stay tuned)
+## BayesFit - Psychometric Curve Fitting Module (Released)
 
 
-<!-- <figure>
-    <a href="/assets/img/research_img.jpg"><img src="/assets/img/research_img.jpg"></a>
-    <figcaption>Computational model of V4</figcaption>
-</figure> -->
+<figure>
+    <a href="https://github.com/SlugocM/bayesfit/blob/master/logos/logo.png"><img src="https://github.com/SlugocM/bayesfit/blob/master/logos/logo.png"></a>
+</figure>
 
-Actively developing Bayesian psychometric curve fitting package in Python and R using STAN. 
+Published module on Python Index and GitHub called BayesFit that allows users to fit models to psychophysical data using Bayesian inference.  This module leverages the PyStan interface, which makes use of Stan, a powerful No-U-Turn sampler.  
 
 
 
