@@ -27,7 +27,7 @@ Received: *April 2008*
 Psychology, Neuroscience & Behaviour  
 McMaster University 
 
-### Certifications 
+## Certifications 
 
 MTA: Database Fundamentals - Certified 2017
 
