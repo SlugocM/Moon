@@ -23,7 +23,7 @@ Developing experiments meeasuring the perception of different geometric features
     <figcaption>Example of bitewing radiograph from Rad et al. (2016) database. Image IS NOT affiliated with Faculty of Dentistry, UoT.</figcaption>
 </figure>
 
-Developing automated system for detecting various diagnostic measures of oral health in radiographs. 
+Developing automated system that diagnoses oral health of patients from radiographic images. 
 
 
 ## Feature Analysis of Objects in ImageNet
