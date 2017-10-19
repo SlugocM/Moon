@@ -15,7 +15,7 @@ comments: false
 
 Developing experiments meeasuring the perception of different geometric features of objects using the Microsoft HoloLens. 
 
-## Automated Detection System for Dental Carries 
+## Automated Detection System for Oral Health 
 **Proudly in colloboration with Faculty of Dentistry, University of Toronto**
 
 <figure>
@@ -23,7 +23,7 @@ Developing experiments meeasuring the perception of different geometric features
     <figcaption>Example of bitewing radiograph from Rad et al. (2016) database. Image IS NOT affiliated with Faculty of Dentistry, UoT.</figcaption>
 </figure>
 
-Developing automated system for detecting dental caries in oral radiographs. 
+Developing automated system for detecting various diagnostic measures of oral health in radiographs. 
 
 
 ## Feature Analysis of Objects in ImageNet
