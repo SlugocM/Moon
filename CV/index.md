@@ -13,7 +13,7 @@ layout: page_CV
 <!-- <iframe src="/CV/CV_2017_08_30.pdf" width="150%" height="1000%">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/CV/CV_2017_08_30.pdf">Download PDF</a>
 </iframe> -->
-<embed src="/CV/CVresearch_2017_10_19.pdf" type="application/pdf" width="100%" height="100%">
+<embed src="/CV/CVresearch_2017_11_05_online.pdf" type="application/pdf" width="100%" height="100%">
 
 
 <!-- <object data="/CV/CV_2017_08_30.pdf" type="application/pdf" width="100%" height="100%">
