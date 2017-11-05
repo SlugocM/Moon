@@ -14,7 +14,7 @@ comments: false
 **_\*(Pending submission upon completion of thesis)_**
 
 ## Pre-Publications
-1. **Slugocki, M.**, Sekuler, A. B., & Bennett, P. J. (2017, November 5). BayesFit: A tool for modeling psychophysical data using Bayesian inference. Retrieved from psyarxiv.com/fnp28
+1. **Slugocki, M.**, Sekuler, A. B., & Bennett, P. J. (2017, November 5). BayesFit: A tool for modeling psychophysical data using Bayesian inference. Retrieved from <a href="psyarxiv.com/fnp28">.
 
 ## Conference Proceedings
 1. **Slugocki, M.**, Duong, C.Q., Sekuler, A.B., & Bennett, P.J. (2016). Evaluating temporal interactions between pairs of shapes. *Journal of Vision*, *16*(12), 796-796. 
