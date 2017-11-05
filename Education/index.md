@@ -42,3 +42,9 @@ MTA: Database Fundamentals - Certified 2017
       o.parentNode.insertBefore(s, o);
       })();
   </script>
+
+### Online certifications 
+
+**Deeplearning.ai on Coursera (Andrew Ng)**  
+Neural Networks and Deep Learning 
+<a href="https://www.coursera.org/account/accomplishments/certificate/EPUSUG8RY97U">Link to certificate</a>
