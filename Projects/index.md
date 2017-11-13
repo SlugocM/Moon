@@ -15,6 +15,7 @@ comments: false
 
 Developing experiments meeasuring the perception of different geometric features of objects using the Microsoft HoloLens. 
 
+
 ## Automated Detection System for Oral Health 
 **Proudly in colloboration with Faculty of Dentistry, University of Toronto**
 
@@ -60,6 +61,14 @@ PsychArXiv link: <https://psyarxiv.com/fnp28/>
 Published module on Python Index and GitHub called BayesFit that allows users to fit models to psychophysical data using Bayesian inference.  This module leverages the PyStan interface, which makes use of Stan, a powerful No-U-Turn sampler.  
 
 
+## Designed and Set up 4-way Mirror Stereoscope to Study Stereoscopic Vision
+
+<figure>
+    <a href="/assets/img/stereoscope.png"><img src="/assets/img/stereoscope.png"></a>
+    <figcaption>Image of stereoscopic apparatus from observers viewpoint.</figcaption>
+</figure>
+
+Responsible for solely designing and setting up a 4-way stereoscopic apparatus used to study stereoscopic vision in human observers.  I am also responsible for writing the calibration scripts required for proper use of such as device.  I will make these scripts publicly available on my Github in the coming weeks.  
 
 
 
