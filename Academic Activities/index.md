@@ -10,4 +10,9 @@ comments: false
 
 Peer-review articles to ensure that content and software provided adhere to the quality standards of the Journal of Open Research Software (JORS).  
 
+### Member of: 
+
+1) Vision Science Society 
+2) American Psychological Association (APA)
+3) Python Foundation
 
