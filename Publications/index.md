@@ -8,9 +8,10 @@ comments: false
     
 ## Publications 
 1. **Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (*submitted, 2017*) BayesFit: A tool for modeling psychophysical data using Bayesian inference. *Journal of Open Research Software*
-1. \***Slugocki, M.**, Duong, C.Q., Sekuler, A.B., & Bennett, P.J. (TBD). Evaluating temporal interactions between pairs of shapes. 
-2. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (TBD). Evaluating phase dependent masking with Radial Frequency contours. 
-3. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (TBD). Local perturbations to a global Radial Frequency masker alleviate lateral masking effects.  
+2. \***Slugocki, M.**, Duong, C.Q., Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Evaluating temporal interactions between pairs of shapes. 
+3. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Evaluating phase dependent masking with Radial Frequency contours. 
+4. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Local perturbations to a global Radial Frequency masker alleviate lateral masking effects.  
+5. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Uniform sensitivity to curvature deformations across polar angle. 
 **_\*(Pending submission upon completion of thesis)_**
 
 ## Pre-Publications
