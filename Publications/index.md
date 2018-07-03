@@ -7,15 +7,17 @@ comments: false
 ---
     
 ## Publications 
-1. **Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (*submitted, 2017*) BayesFit: A tool for modeling psychophysical data using Bayesian inference. *Journal of Open Research Software*
-2. \***Slugocki, M.**, Duong, C.Q., Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Evaluating temporal interactions between pairs of shapes. 
-3. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Evaluating phase dependent masking with Radial Frequency contours. 
-4. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Local perturbations to a global Radial Frequency masker alleviate lateral masking effects.  
-5. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Uniform sensitivity to curvature deformations across polar angle. 
+1. **Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (*submitted, in review*) BayesFit: A tool for modeling psychophysical data using Bayesian inference. *Journal of Open Research Software*
+2. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (*submitted*). Phase-selective masking with radial frequency contours. 
+3. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (*submitted*). Effect of signal alteration on learning
+shape identity using sparse representations.
+4. \***Slugocki, M.**, Duong, C.Q., Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Evaluating temporal interactions between pairs of shapes. 
+5. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Local perturbations to a global Radial Frequency masker alleviate lateral masking effects.  
+6. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Uniform sensitivity to curvature deformations across polar angle. 
 **_\*(Pending submission upon completion of thesis)_**
 
 ## Conference Proceedings
-1. **Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (accepted; 2018). Evaluating Shape Representations using Machine Learning Systems. *Journal of Vision*, (Tbd.)
+1. **Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (2018). Evaluating Shape Representations using Machine Learning Systems. *Journal of Vision*, (Tbd.)
 1. **Slugocki, M.**, Duong, C.Q., Sekuler, A.B., & Bennett, P.J. (2016). Evaluating temporal interactions between pairs of shapes. *Journal of Vision*, *16*(12), 796-796. 
 2. **Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (2015). Evaluating phase dependent masking with Radial Frequency contours. *Journal of Vision*, *15*(12), 1026-1026.
 3. Beers, A., **Slugocki, M.**, Lewis, T., Sekuler, A., & Bennett, P. (2015). Characterizing Perceptual Alternations During Binocular Rivalry in Children. *Journal of vision*, *15*(12), 191-191.
