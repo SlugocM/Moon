@@ -11,9 +11,9 @@ comments: false
 2. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (*submitted*). Phase-selective masking with radial frequency contours. 
 3. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (*submitted*). Effect of signal alteration on learning
 shape identity using sparse representations.
-4. \***Slugocki, M.**, Duong, C.Q., Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Evaluating temporal interactions between pairs of shapes. 
-5. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Local perturbations to a global Radial Frequency masker alleviate lateral masking effects.  
-6. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission for early 2018). Uniform sensitivity to curvature deformations across polar angle. 
+4. \***Slugocki, M.**, Duong, C.Q., Sekuler, A.B., & Bennett, P.J. (submission planned for 2018). Evaluating temporal interactions between pairs of shapes. 
+5. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission planned for 2018). Local perturbations to a global Radial Frequency masker alleviate lateral masking effects.  
+6. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission planned for 2018). Uniform sensitivity to curvature deformations across polar angle. 
 **_\*(Pending submission upon completion of thesis)_**
 
 ## Conference Proceedings
