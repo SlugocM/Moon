@@ -7,14 +7,17 @@ comments: false
 ---
     
 ## Publications 
-1. **Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (*submitted, in review*) BayesFit: A tool for modeling psychophysical data using Bayesian inference. *Journal of Open Research Software*
-2. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (*submitted*). Phase-selective masking with radial frequency contours. 
-3. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (*submitted*). Effect of signal alteration on learning
-shape identity using sparse representations.
-4. \***Slugocki, M.**, Duong, C.Q., Sekuler, A.B., & Bennett, P.J. (submission planned for 2018). Evaluating temporal interactions between pairs of shapes. 
+1. \***Slugocki, M.**, Sekuler, A. B., & Bennett, P. J. (2019). Phase-selective masking with radial frequency contours. Vision research, 154, 1-13.
+2. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (2018). Effect of signal alteration on learning shape identity using sparse representations. *Conference on Cognitive Computational Neuroscience* 
+3. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (in press.) BayesFit: A tool for modeling psychophysical data using Bayesian inference. *Journal of Open Research Software*
+
+<!-- 3. \***Slugocki, M.**, Duong, C.Q., Sekuler, A.B., & Bennett, P.J. (in review). Evaluating temporal interactions between pairs of shapes.  -->
+
+
+<!-- 4. \***Slugocki, M.**, Duong, C.Q., Sekuler, A.B., & Bennett, P.J. (submission planned for 2018). Evaluating temporal interactions between pairs of shapes. 
 5. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission planned for 2018). Local perturbations to a global Radial Frequency masker alleviate lateral masking effects.  
 6. \***Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (submission planned for 2018). Uniform sensitivity to curvature deformations across polar angle. 
-**_\*(Pending submission upon completion of thesis)_**
+**_\*(Pending submission upon completion of thesis)_** -->
 
 ## Conference Proceedings
 1. **Slugocki, M.**, Sekuler, A.B., & Bennett, P.J. (2018). Evaluating Shape Representations using Machine Learning Systems. *Journal of Vision*, (Tbd.)
