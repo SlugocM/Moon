@@ -8,9 +8,9 @@ comments: false
 
 ### Experience 
 
-**Apple Inc**
-1 Apple Parkway, Cupertino, California
-Engineering Intern - Vision Experience Group | Panel Process & Optics
+**Apple Inc**  
+1 Apple Parkway, Cupertino, California  
+Engineering Intern - Vision Experience Group | Panel Process & Optics  
 
 ### Education
 
