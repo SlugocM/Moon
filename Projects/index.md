@@ -6,16 +6,6 @@ date: 2017-06-14
 comments: false
 ---
 
-## Perception of Holographic Object Features
-
-<figure>
-    <a href="/assets/img/project_holoLens.jpg"><img src="/assets/img/project_holoLens.jpg"></a>
-    <figcaption>Me with the Microsoft HoloLens doing work in the lab.</figcaption>
-</figure>
-
-Developing experiments meeasuring the perception of different geometric features of objects using the Microsoft HoloLens. 
-
-
 ## Automated Detection System for Oral Health 
 **Proudly in colloboration with Faculty of Dentistry, University of Toronto**
 
