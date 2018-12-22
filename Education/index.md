@@ -1,11 +1,19 @@
 ---
 layout: page
-title: Education
+title: Education/Experience
 tags: [education]
 date: 2017-06-16
 comments: false
 ---
- 
+
+### Experience 
+
+Current: 
+**Apple Inc** | 1 Apple Parkway, Cupertino, California
+Engineering Intern - Vision Experience Group | Panel Process & Optics
+
+### Education
+
 **Ph.D. Candidate**  
 **(Computational Psychophysics)**  
 Expected: *Winter 2017*   
