@@ -8,7 +8,6 @@ comments: false
 
 ### Experience 
 
-Current: 
 **Apple Inc** | 1 Apple Parkway, Cupertino, California
 Engineering Intern - Vision Experience Group | Panel Process & Optics
 
