@@ -8,14 +8,14 @@ comments: false
 
 ### Experience 
 
-**Apple Inc**  
+** Apple Inc**  
 1 Apple Parkway, Cupertino, California  
-Engineering Intern - Vision Experience Group | Panel Process & Optics  
+Software Engineering Intern - Vision Experience Group | Panel Process & Optics  
 
 ### Education
 
 **Ph.D. Candidate**  
-**(Computational Psychophysics)**  
+**(Vision Science)**  
 Expected: *Winter 2017*   
 Psychology, Neuroscience & Behaviour,  
 McMaster University    
@@ -23,12 +23,12 @@ McMaster University
 Advisors:   
 Dr. Allison B. Sekuler & Dr. Patrick J. Bennett    
 
-Relevant Graduate Coursework: 
-- Machine Learning
-- Grduate Level Statistics and Research Design
-- Bayesian Inference
-- Signal Detection Theory
-- Psychometrics
+Relevant Graduate Coursework: <br>
+- Machine Learning <br>
+- Grduate Level Statistics and Research Design <br>
+- Bayesian Inference <br>
+- Signal Detection Theory <br>
+- Psychometrics <br>
 
 **B.Sc.(Hons)**  
 Received: *April 2008*  
