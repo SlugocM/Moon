@@ -1,9 +1,8 @@
 # Site
-title:              '<strong><larger>Michael Slugocki, <em>Ph.D.</em> </larger> </strong>'
-bio:                '<strong>Vision Scientist <br>
-                     Department of Psychology, Neuroscience & Behaviour <br>
-                     McMaster University'
-description:        'Vision Scientist</strong>'
+title:              '<strong><larger>Michael Slugocki, Ph.D. </larger> </strong>'
+bio:                '<strong>VE Engineer <br>
+                     Apple Inc. </br> </strong>'
+description:        'Vision Scientist'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
@@ -14,7 +13,6 @@ locale:             en_US
 # url:                slugocm.github.io
 #url:                http://127.0.0.1:4000
 #email:              slugocm@mcmaster.ca
-
 
 # Jekyll
 permalink:          /:title/
