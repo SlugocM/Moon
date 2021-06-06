@@ -1,7 +1,7 @@
 # Site
 title:              '<strong><larger>Michael Slugocki, Ph.D. </larger> </strong>'
 bio:                '<strong>VE Engineer <br>
-                     Apple Inc. </br> </strong>'
+                      Apple Inc. </br> </strong>'
 description:        'Vision Scientist'
 reading_time:       true
 words_per_minute:   200
@@ -34,8 +34,8 @@ disqus_shortname:   Mike
 
 # Social
 # if you don't have any of social below, comment the line.
-google:
-  plus:            '111592013376790364447'
+# google:
+#   plus:            '111592013376790364447'
   #analytics:
   #verify:
   #ad-client:
