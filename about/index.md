@@ -11,11 +11,10 @@ comments: false
     <figcaption>Me hooked into a BioSemi EEG system.</figcaption>
 </figure>
 
-My name is Michael Slugocki, and I am currently in the final stages of completing my doctoral thesis in the Vision and Cognitive Neuroscience Lab at McMaster University.  
+My name is Michael Slugocki, and I love everything software, vision science, and bayesian.
 
-My main focus of interest lies in improving object detection algorithms (e.g., convolutional neural networks) by better understanding how humans efficiently encode shapes through neural coding schemes. By identifying critical features of importance, and how the distribution of these features across visual space change human perception of shape, similar encoding schemes can be applied to machine learning systems to better recognize objects in the real world.   
+I hold a Ph.D. in Vision Science from the Vision and Cognitive Neuroscience Lab at McMaster University.  My dissertation focused on understanding how humans efficiently encode shapes through neural coding schemes. By identifying critical features of importance, and how the distribution of these features across visual space change human perception of shape, similar encoding schemes can be applied to machine learning systems to better recognize objects in the real world. 
 
-Apart from my immediate research program, I am very passionate about programming and bayesian analytics. I very much enjoy trying to automate common tasks, and can often times be found tinkering around with microcontrollers, and other electronic gadgetry at my disposable. I am also an avid chess player, and always love the opportunity to get a quick game in.  
+Apart from theoretical contributions, my passion and industry experience involves engineering software (e.g., applications, libraries, frameworks, etc.) to improve health and user applications related to vision.  Machine learning, computer graphics, and other fundamental tools relating back to vision science are always elements that I try to integrate into projects.  Above all else, emphasis on quality control and testing is at the core of my philosophical outlook on work.  Deliverables must function as intended at all costs. 
 
- 
-If you have any projects or opportunities that you think may be of interest for me to join, please contact me at: slugocm AT mcmaster DOT ca
+If you have any opportunities that you think may be of interest, please contact me at: slugocm AT gmail DOT com. 

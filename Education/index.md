@@ -6,17 +6,22 @@ date: 2017-06-16
 comments: false
 ---
 
-### Experience 
+### Industry Experience
 
-** Apple Inc**  
+**Visual Experience Engineer | Panel Process & Optics**
+** Apple Inc**
+Year: 2019 - Current
 1 Apple Parkway, Cupertino, California  
-Software Engineering Intern - Vision Experience Group | Panel Process & Optics  
+
+**Internship - Software Engineer | Panel Process & Optics**  
+** Apple Inc**  
+Year: 2018 - 2019
+1 Apple Parkway, Cupertino, California
 
 ### Education
 
-**Ph.D. Candidate**  
-**(Vision Science)**  
-Expected: *Winter 2017*   
+Ph.D.
+**Vision Science and Computational Psychophysics**
 Psychology, Neuroscience & Behaviour,  
 McMaster University    
   
@@ -35,7 +40,7 @@ Received: *April 2008*
 Psychology, Neuroscience & Behaviour  
 McMaster University 
 
-### Certifications 
+<!-- ### Certifications 
 
 MTA: Database Fundamentals - Certified 2017
 
@@ -49,4 +54,4 @@ MTA: Database Fundamentals - Certified 2017
       var o = document.getElementsByTagName('script')[0];
       o.parentNode.insertBefore(s, o);
       })();
-  </script>
+  </script> -->
