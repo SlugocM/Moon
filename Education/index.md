@@ -8,20 +8,20 @@ comments: false
 
 ### Industry Experience
 
-**Visual Experience Engineer | Panel Process & Optics**
-** Apple Inc**
-Year: 2019 - Current
+**Visual Experience Engineer | Panel Process & Optics** 
+** Apple Inc** 
+Year: 2019 - Current 
 1 Apple Parkway, Cupertino, California  
 
 **Internship - Software Engineer | Panel Process & Optics**  
 ** Apple Inc**  
-Year: 2018 - 2019
-1 Apple Parkway, Cupertino, California
+Year: 2018 - 2019 
+1 Apple Parkway, Cupertino, California 
 
 ### Education
 
-Ph.D.
-**Vision Science and Computational Psychophysics**
+Ph.D. 
+**Vision Science and Computational Psychophysics** 
 Psychology, Neuroscience & Behaviour,  
 McMaster University    
   
